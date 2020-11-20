@@ -1,0 +1,43 @@
+# Site
+name: "Michał Dudek"
+title: "Michał Dudek"
+description: "Software engineer's personal blog."
+meta_description: "Software engineer's personal blog."
+logo: 'assets/images/my_face_small.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'michal.dudek1995@gmail.com'
+disqus: 'https-dudekmichal-github-io-sleek'
+sharethis: "<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5dccaad3a96a11001267ff0b&product=sticky-share-buttons&cms=sop' async='async'></script>"
+
+# Authors
+authors:
+  MichalDudek:
+    name: Michał Dudek
+    display_name: Michał Dudek
+    gravatar: my_avatar.png
+    email: michal.dudek1995@gmail.com
+    web: https://dudekmichal.github.io
+    description: "Michał Dudek."
+  
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jemoji
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
