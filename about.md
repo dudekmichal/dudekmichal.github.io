@@ -13,7 +13,7 @@ I've got 4 years of experience in commercial IT projects.
 ## Some projects
 - #### Artificial patient for the ECG signal
 A python application that simulates a electrocardiograph device
-![ecgsimulator]({{ site.baseurl }}/assets/images/posts/about/ecgsimulator.png)
+![ECG simulator]({{ site.baseurl }}/assets/images/posts/about/ecgsimulator.jpg)
 
 - #### Lactate level
 Measuring a blood lactate level with Raspberry Pi Zero.
@@ -30,3 +30,8 @@ Device allows to measure the blood lactate level in a non-invasivem, non-contact
     * Testing frameworks
 - Bash/zsh
 - C/C++
+- Databases
+    * MySQL
+    * MongoDB
+    * DynamoDB
+- AWS

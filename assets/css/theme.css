@@ -318,7 +318,7 @@ span.post-name a,span.post-read-more a:hover {
 .mediumnavigation .navbar-brand img {
 	margin-right:7px;
     vertical-align: text-bottom;
-    max-width:100;
+    max-width:150px;
 }
 .mainheading h1.sitetitle {
 	font-family:Georgia;
