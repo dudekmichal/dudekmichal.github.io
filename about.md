@@ -12,7 +12,7 @@ I've got 4 years of experience in commercial IT projects.
 
 ## Some projects
 - #### Artificial patient for the ECG signal
-A python application that simulates a electrocardiograph device
+A python application that simulates an electrocardiograph device.
 ![ECG simulator]({{ site.baseurl }}/assets/images/posts/about/ecgsimulator.jpg)
 
 - #### Lactate level
